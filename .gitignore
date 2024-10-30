@@ -1,0 +1,7 @@
+.gradle
+libs
+build
+app/build
+config.json
+offsets.txt
+out.txt
