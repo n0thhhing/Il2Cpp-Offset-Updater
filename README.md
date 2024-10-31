@@ -71,7 +71,7 @@ Empty lines or lines with only comments will be skipped.
 
 1. Prepare the `offsets.txt` file containing the offsets to be updated, following the specified format.
 
-2. You can download the release JAR file from the [releases page](link-to-your-releases-page) and run the updater with the following command:
+2. You can download the release JAR file from the [releases page](https://github.com/n0thhhing/Il2Cpp-Offset-Updater/releases/) and run the updater with the following command:
 
    ```bash
    java -jar Updater-1.0.0.jar
