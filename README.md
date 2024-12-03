@@ -9,13 +9,6 @@ user-friendly way to manage offsets for dynamic library
 updates. The application is built in Kotlin and requires
 Java 21 to run.
 
-## Features
-
-- Reads offset configurations from a JSON file.
-- Supports pattern scanning in AArch64 binaries using the KMP algorithm.
-- Configurable verbosity for detailed output during processing.
-- Easy integration with existing projects via Gradle.
-
 ## Requirements
 
 - **Java 21**: Ensure you have JDK 21 installed on your system.
